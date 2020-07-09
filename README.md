@@ -1,4 +1,5 @@
 # Invisible-Cloak
+### This project detects the color of the cloak by which you want to be invisible and replaces the masked color with background
 
 ## To run this code in your terminal:
 * ***Open your terminal**
