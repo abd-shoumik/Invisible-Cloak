@@ -16,13 +16,15 @@ pip install -r requirements.txt
 ```python
 python color_range_detector.py -f HSV --webcam
 ```
-> ***when you run this, you will be presented with 3 camera views. Go to the one with the slider and the one which starts  with a white screen.***
+> ***When you run this, you will be presented with 3 camera views. Go to the one with the slider and the one which starts  with a white screen.***
 
 > ***Adjust the values of H, S & V till only the object you wish to make invisible becomes white and the rest is black. The precise you get this, the accurate your invisibility will be.***
 
 > ***Enter q to exit from all cameras***
 
-> ***After you do that. Run `Python3 invisible.py`***
+> ***After you do that. Run*** 
+```Python3 invisible.py
+```
 
 > ***Stay away from the webcam for a few seconds and come back holding the cloak***
 
