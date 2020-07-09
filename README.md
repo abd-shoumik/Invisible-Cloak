@@ -12,18 +12,27 @@
 ```python
 pip install -r requirements.txt
 ```
-> First we need to choose the color to mask. The code works by masking a specific color.
+> ***First we need to choose the color to mask. The code works by masking a specific color.
 ```python
-python range_det.py -f HSV --webcam
+python color_range_detector.py -f HSV --webcam
 ```
-> when you run this, you will be presented with 3 camera views. Go to the one with the slider and the one which starts  with a white screen.
+> when you run this, you will be presented with 3 camera views. Go to the one with the slider and the one which starts  with a white screen.***
 
-> Adjust the values of H, S & V till only the object you wish to make invisible becomes white and the rest is black. The precise you get this, the accurate your invisibility will be.
+> ***Adjust the values of H, S & V till only the object you wish to make invisible becomes white and the rest is black. The precise you get this, the accurate your invisibility will be.***
 
-> Enter q to exit from all cameras
+> ***Enter q to exit from all cameras***
 
-> After you do that. Run `Python3 invisible.py`
+> ***After you do that. Run `Python3 invisible.py`
 
-> Stay away from the webcam for a few seconds and come back holding the cloak and say 'Evanesco'😂. Congratulations! You will be like this:
+> ***Stay away from the webcam for a few seconds and come back holding the cloak***
+
+### Say 'Evanesco'😂 and Congratulations! You will be like this:
+![InvisibleGif](https://github.com/abd-shoumik/Invisible-Cloak/blob/master/Invisible.gif)
+
+## Contacts:
+* **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
+* **Email:[abd.shoumik@gmail.com](https://abd.shoumik@gmail.com)**
+* **Youtube:[TheLazyCoder](https://youtube.com/channel/UCWjx_FKjjfjAL-wtSi-iS4g)**
+* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/abdullah-shoumik-7a0b36135/)**
 
 
