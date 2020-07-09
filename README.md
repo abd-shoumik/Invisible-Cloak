@@ -23,8 +23,8 @@ python color_range_detector.py -f HSV --webcam
 > * ***Enter q to exit from all cameras***
 
 > * ***After you do that. Run*** 
-``` python3 
-invisible.py
+``` python 
+python3 invisible.py
 ```
 
 > * ***Stay away from the webcam for a few seconds and come back holding the cloak***
